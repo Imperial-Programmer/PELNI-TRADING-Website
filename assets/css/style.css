@@ -101,7 +101,7 @@ nav a:hover{
 header {
 	height: 100vh;
 	position: relative;
-	background: url(../img/2.jpg);
+	background: url(../img/11.jpg);
 	/* background: url(../img/1.jpg);
 	background: url(../img/2.jpg); */
 	animation-delay: 0s;
@@ -127,12 +127,12 @@ header {
   }
   
   .slider .slide:nth-child(1) {
-	background-image: url(../img/trade.jpg);
+	background-image: url(../img/background1.png);
 	animation-delay: -0;
   }
   
   .slider .slide:nth-child(2) {
-	background-image: url(../img/1.jpg);
+	background-image: url(../img/18.jpg);
 	animation-delay: -2s;
   }
   @keyframes slide {
@@ -479,8 +479,8 @@ a:hover{
 /* The circles or bullets indicators */
 .dots {
   cursor: pointer;
-  height: 16px;
-  width: 16px;
+  height: 9px;
+  width: 9px;
   margin: 0 3px;
   background: linear-gradient(92.18deg, #0047BB -25.78%, #0047bb 123.02%);
   border-radius: 50%;
